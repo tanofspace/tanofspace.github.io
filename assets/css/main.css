@@ -121,6 +121,8 @@ input, select, textarea {
 			text-decoration: none;
 		}
 
+	a.nounderline {text-decoration: none; }
+
 	strong, b {
 		color: #787878;
 		font-weight: 400;
